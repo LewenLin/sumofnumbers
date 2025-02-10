@@ -6,7 +6,6 @@ function sumFor(list) {
     }
     return sum;
 }
-
 console.log(sumFor([1, 2, 3, 4]));
 function sumWhile(list) {
     let i = 0;
